@@ -1,0 +1,5 @@
+group out is a rop that outputs each primitive group as a separate file on disk over a frame range.
+
+compile with flags:
+
+-fPIC -std=c++0x
